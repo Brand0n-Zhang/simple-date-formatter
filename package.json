@@ -1,15 +1,15 @@
 {
-  "name": "time-formater-ts",
-  "version": "1.0.3",
+  "name": "simple-date-formatter",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "time",
     "date",
-    "formater"
+    "formatter"
   ],
   "author": "Brandon",
   "license": "ISC"
