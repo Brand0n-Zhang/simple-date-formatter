@@ -1,4 +1,4 @@
-export const formateTime = (
+export const formateDate = (
     time: Date,
     formate: string = 'Y年Mon月D日'
 ): string => {
